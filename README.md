@@ -19,7 +19,7 @@ Make that thing of yours even better. I can help either with the big picture or 
 - `JavaScript` & `$(jQuery)` not bad
 - `Vue.js` good
 - `Livewire` Very good
-- `<HTML>` + `{CSS}` + `@Less` + `$Sass` great
+- `<HTML>` + `{CSS}` + `@Less` + `$Sass` good
 - `DATABASE` & `SQL` very good
 - `Git` & `Git-Flow` great
 - `$ Unix` banner good
