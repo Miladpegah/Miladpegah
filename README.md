@@ -23,6 +23,7 @@ Make that thing of yours even better. I can help either with the big picture or 
 - `DATABASE` & `SQL` very good
 - `Git` & `Git-Flow` great
 - `$ Unix` banner good
+- `React.js` LEARNING
 - Other skills not mentioned...
 
 ## 🤔 ABOUT ME?
