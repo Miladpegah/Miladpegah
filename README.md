@@ -16,7 +16,7 @@ Make that thing of yours even better. I can help either with the big picture or 
 
 - `<? php ?>` great
 - `{{ Laravel }}` great
-- `JavaScript` & `$(jQuery)` not bad
+- `JavaScript` & `React.js` good
 - `Vue.js` good
 - `Livewire` Very good
 - `<HTML>` + `{CSS}` + `@Less` + `$Sass` good
