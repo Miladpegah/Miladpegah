@@ -16,14 +16,13 @@ Make that thing of yours even better. I can help either with the big picture or 
 
 - `<? php ?>` great
 - `{{ Laravel }}` great
-- `JavaScript` & `React.js` good
-- `Vue.js` good
+- `JavaScript` good
+- `React.js` good
 - `Livewire` Very good
 - `<HTML>` + `{CSS}` + `@Less` + `$Sass` good
 - `DATABASE` & `SQL` very good
 - `Git` & `Git-Flow` great
 - `$ Unix` banner good
-- `React.js` LEARNING
 - Other skills not mentioned...
 
 ## 🤔 ABOUT ME?
