@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-![](QRcode/miladpegahQrCode.png)
-
-scan me
+![scan me](QRcode/miladpegahQrCode.png)
 
 ## 🔭 What I do ? 
 Make that thing of yours even better. I can help either with the big picture or with specifics. 
